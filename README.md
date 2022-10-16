@@ -10,4 +10,4 @@ Heya! Pablito here! Thanks for visit this amazing account!
 - 👯 I’m looking to collaborate on important mods
 - 😄 Pronouns: He/Him
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerPablito)(https://github.com/anuraghazra/github-readme-stats)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerPablito)
