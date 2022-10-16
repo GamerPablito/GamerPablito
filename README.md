@@ -9,5 +9,4 @@ Heya! Pablito here! Thanks for visit this amazing account!
 - 🌱 I’m currently learning how to make shaders
 - 👯 I’m looking to collaborate on important mods
 - 😄 Pronouns: He/Him
-
-[My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerPablito)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerPablito)(https://github.com/anuraghazra/github-readme-stats)
