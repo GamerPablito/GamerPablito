@@ -11,3 +11,5 @@ Heya! Pablito here! Thanks for visit this amazing account!
 - 😄 Pronouns: He/Him
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerPablito)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0BB99B)
