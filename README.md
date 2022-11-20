@@ -1,4 +1,4 @@
-### Hi there 👋 ![Profile Views](https://komarev.com/ghpvc/?username=GamerPablito&color=6002ee&style=flat-square) ![Discord](https://img.shields.io/badge/Discord-GamerPablito%233132-yellowgreen?logo=discord&style=flat-square&color=5865F2)
+### Hi there 👋 ![Discord](https://img.shields.io/badge/Discord-GamerPablito%233132-yellowgreen?logo=discord&style=flat-square&color=5865F2)
 
 ![GamerPablito's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerPablito&show_icons=true)
 
