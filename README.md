@@ -12,4 +12,4 @@ Heya! Pablito here! Thanks for visit this amazing account!
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerPablito)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0BB99B)
+![Donate me](https://github.com/GamerPablito/GamerPablito.github.io/blob/main/donate.svg)
